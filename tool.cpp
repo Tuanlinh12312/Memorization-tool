@@ -20,8 +20,9 @@ int main()
 {
     // change question file by changing ifstream inp
     ifstream inp("questions.txt");
-    ll n; inp >> n;
-    vector <string> questions(n);
+    ll n; inp >> n; 
+    vector <string> questions(n); 
+    getline(inp, questions[0]);
     for (string& s:questions) getline(inp, s);
     vector <string> round[100]; 
     round[1]=questions;
@@ -30,7 +31,7 @@ int main()
     // ask question s at round r
     auto push=[&](string s, ll r)
     {
-        if (cnt[s]==2) return; // if a question gets Y
+        if (cnt[s]==YCNT) return; // if a question gets Y
         round[r].pb(s);
         crmax=max(crmax, r);
     };
@@ -46,9 +47,10 @@ int main()
             string s=round[i][j];
             cout << "(" << j+1 << "/" << sz(round[i]) << "): " << s << " (Y/N/U)\n";
             char response; cin >> response; // is Y/N/U
-            if (response=='Y') push(s, i+YSKIP), cnt[s]++;
+            if (response=='Y') cnt[s]++, push(s, i+YSKIP);
             else if (response=='U') push(s, i+NSKIP);
             else push(s, i+NSKIP);
         }
     }
+    cout << "Yay you finished it!\n";
 }
