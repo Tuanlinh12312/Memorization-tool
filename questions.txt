@@ -1,0 +1,137 @@
+127
+Priming?
+Top down processing?
+Bottom up processing?
+When senses conflict, which sense usually win?
+McGurk effect?
+List stages of cell signaling?
+Reception?
+Transduction?
+Qualitative vs quantitative variation?
+Absolute threshold?
+Signal detection theory?
+Difference threshold - JND?
+Weber's law?
+Gestalt psychology?
+Gestalt grouping principles - proximity?
+Gestalt grouping principles - similarity?
+Gestalt grouping principles - continuity?
+Gestalt grouping principles - connectedness?
+Gestalt grouping principles - closure?
+Gestalt grouping principles?
+Spectral colors?
+# of wavelength senses vs # color visible?
+Fovea?
+Retina?
+Pupil?
+Cornea?
+What do photoreceptor cells do when light hit?
+When photoreceptor cells generate e, where does it go?
+Optic nerve? - what does it cause?
+Rods vs cones - function?
+Rods vs cones - sensitivity?
+Rods vs cones - color?
+Rods vs cones - location?
+Rods vs cones - detail?
+Rods vs cones - quantity?
+Visual cortex?
+Retinotopically organized?
+Feature detectors?
+Highest level of vision?
+Visual agnosia?
+Prosopagnosia?
+Synesthesia?
+Ventral visual pathway?
+Dorsal visual pathway?
+ventral vs dorsal - function?
+ventral vs dorsal - pathway?
+ventral vs dorsal - when damaged?
+List parts of ear in order?
+Pinna?
+Eardrum?
+Ossicles? - Which bones does it consist of?
+Fluid require more energy - What does ossicles do?
+Ossicles move mallets to amplify air pressure - Why?
+Oval window?
+Cochlea?
+How does fluid vibration in cochlea generate e?
+Frequency theory?
+Place theory?
+Helmholtz?
+How does frequency map relate to basilar membrane?
+Where is perception of pitch + place frequency map?
+Tonotopically organized?
+How do we locate sound?
+Quantitative development?
+Qualitative development?
+Nature vs Nurture?
+Newborn capabilities?
+Habituation?
+Dishabituate?
+2 rules of newborn motor development?
+Schema? - Example?
+Piaget's Theory?
+2 ways of schema?
+4 cognitive stages?
+Sensorimotor?
+Preoperational?
+Concrete operational?
+Formal operational?
+Social referencing?
+When can baby start pay attention to intention of an action?
+What are operations? (developmental)
+Why cant preop stage pass Piaget's conservation task?
+What can and cant Concrete op understand?
+When know mirror != self?
+Theory of mind? - What stage and age start developing?
+Which test is used to test theory of mind?
+When start having knowledge of other's preferences and desires?
+When explicitly understand?
+Know implicitly?
+Gender socialization?
+Gender schema?
+Memory?
+3 stages of storing memory?
+Encoding?
+Storage?
+Retrieval?
+3 kinds of memory?
+Sensory memory?
+Short term memory?
+Long term memory?
+Which kind of memory does Amnesia affect?
+Which kind of memory does Parkinson affect?
+Which kind of memory does Alzheimer affect?
+Does long term always require short term?
+How many ~ items can be stored in short term at a time?
+Post-categorical?
+Working memory? != Short term memory?
+Serial positioning effect?
+Primary effect?
+Recency effect?
+Amnesia?
+Retrograde amnesia?
+Anterograde amnesia?
+List long term memory tree?
+Explicit memory?
+Implicit memory?
+Episodic memory?
+Semantic memory?
+Procedural?
+Priming?
+Classical conditioning?
+Affective conditioning?
+Which region store Episodic memory?
+Which region store Semantic memory?
+Which region store emotional aspect memory?
+Which region store motor aspect of implicit memory?
+Which region store working memory?
+Encoding specificity principle?
+State/mood - dependent retrieval?
+Tip of the tongue phenomenon?
+Does intentionally forgetting work?
+Why encoding failure?
+
+ 
+
+
