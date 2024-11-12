@@ -19,7 +19,7 @@ const ll NSKIP=1; // # of rounds skipped if responded no
 int main()
 {
     // change question file by changing ifstream inp
-    ifstream inp("questions_senses.txt");
+    ifstream inp("questions.txt");
     ll n; inp >> n;
     vector <string> questions(n);
     for (string& s:questions) getline(inp, s);
